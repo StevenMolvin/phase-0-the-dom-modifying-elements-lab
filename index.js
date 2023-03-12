@@ -5,4 +5,4 @@ const newHeader = document.createElement("h1");
 //creating h1 id
 newHeader.id= "victory"
 //creating innerHtml inside h1
-newHeader.innerHTML = "YOUR-NAME is the champion"
+newHeader.innerHTML = "Molvin is the champion"
